@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+.login {
+  text-align: center;
+  width: 490px;
+  padding-bottom: 170px;
+  padding-top: 20px;
+  position: fixed;
+  margin-bottom: auto;
+  margin-top: auto;
+  top: 23%;
+  left: 32%;
+  bottom: 20%;
+  /* margin-bottom: 500px; */
+  border-style: ridge;
+  border-color: aqua;
+  border-width: thick;
+  background: mediumaquamarine;
+  opacity: 0.9;
+  border-radius: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 450px;
+}
+/* Full-width input fields */
+input[type="text"],
+input[type="password"] {
+  width: 70%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+button {
+  /* margin-top: 10px; */
+  /* background-color: lightgreen; */
+  /* color:black; */
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 0px;
+  width: 110px;
+  height: 50px;
+  font-size: 20px;
+  font-family: "Bree serif", "serif";
+  border-radius: 30px;
+  font-weight: 700;
+}
+button:hover {
+  color: blueviolet;
+}
+#mail,
+#conf,
+#pass {
+  border-style: groove;
+  width: 280px;
+  border-style: solid;
+}
+.forgotpass {
+  padding-top: 19px;
+  font-weight: bold;
+  font-family: "Bree serif", "serif";
+}
+body{
+background-image: url(pexels-felix-mittermeier-956999.jpg);
+background-size: cover;
+}

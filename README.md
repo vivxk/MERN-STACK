@@ -1,2 +1,2 @@
-# MERN-STACK1
-FSD TRAINING 
+# MERN-stack
+MERN Stack Training
